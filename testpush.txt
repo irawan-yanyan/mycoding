@@ -1,7 +1,4 @@
 hallo ini test pust
-<<<<<<< HEAD
 sama ini juga test push yang bari ke dua
 ini adalah baris ke 3 yang akan ditambahkan
 dan ini akan ditambahkan pada baris ke empat
-=======
->>>>>>> parent of 6c82ce9... hallo ini
