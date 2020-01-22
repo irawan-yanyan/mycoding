@@ -1,5 +1,8 @@
 <?php
 	require "class/Mhs.php";
-	$objmhs = new Mhs("4197108");
-	$objmhs->viewMhs();
+	$objyanyan = new Mhs("4197108");
+	$objyanyan->viewMhs("Yan yan Irawan");
+	echo "\n";
+	$objshelly = new Mhs("4106100");
+	$objshelly->viewMhs("Shelly Alfarina"); 
 ?>
