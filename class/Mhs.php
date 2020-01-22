@@ -10,7 +10,7 @@ class Mhs{
 		   $this->nama = $nama;
 		}
 		function __destruct(){
-		   echo "ini adalah destruct utk nip :".$this->nip."dengan nama : ".$this->nama;
+		   echo "ini adalah destruct utk nip :".$this->nip."dengan nama : ".$this->nama."\n";
 		}
 
 	}
