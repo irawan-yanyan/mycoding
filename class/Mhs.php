@@ -4,8 +4,8 @@
 			$this->nip = $nip;
 			return $this->nip;
 		}
-		function viewMhs(){
-		   echo "nip : ".$this->nip;
+		function viewMhs($nama){
+		   echo "nip : ".$this->nip." dengan nama : ".$nama;
 		
 		}
 
